@@ -1,4 +1,4 @@
-<b>1 - Existem outras entidades além dessas três?<b></BR>
+<b>1 - Existem outras entidades além dessas três?</b></BR>
   R: Não achei necessario criar nenhuma tabela adicional pois já tinha a relação completa entre aluno, turma e curso.
 
 2 - Quais são os principais campos e tipos?<BR>
